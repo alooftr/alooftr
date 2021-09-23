@@ -1,5 +1,5 @@
 <div>
-<h1> alooftr (AloofTR#9899) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1> alooftr (AloofTR#9899)</h1>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
