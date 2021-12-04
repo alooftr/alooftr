@@ -17,7 +17,7 @@ aloofware@gmail.com
 
        OS  :  Windows
 Languages  :  C++, Lua, 
-  Discord  :  902015309848903682
+  Discord  :  AloofTR#9899
   
 ```
 
