@@ -11,13 +11,10 @@
 
 ```py
 
-
-aloofware@gmail.com
 ----------------
 
        OS  :  Windows
-Languages  :  C++, Lua, 
-  Discord  :  AloofTR#9899
+Languages  :  C, C++, Lua, 
   
 ```
 
